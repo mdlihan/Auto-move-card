@@ -1,0 +1,8 @@
+#animate{
+  animation: anim 4s infinite;
+}
+@keyframes anim{
+  0%{
+    transform: rotatey(360deg);
+  }
+}
